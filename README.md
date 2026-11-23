@@ -68,5 +68,4 @@ As datas devem ser digitadas no formato `AAAA-MM-DD`, por exemplo `2026-11-30`.
 - Aprimorar a robustez no armazenamento e na leitura dos dados.
 
 ## Autor
-
-**Nome:** [seu nome aqui]
+Paulo Vitor Freitas Maia
