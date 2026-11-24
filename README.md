@@ -50,11 +50,11 @@ Sair: encerra o programa.
 As datas devem ser digitadas no formato AAAA-MM-DD, por exemplo 2026-11-30.
 
 Pontos de melhoria
-* Ajuste na exclusão de produtos
+* Aprimorar o controle de exclusão de produtos, garantindo a integridade do histórico de vendas.
 * Aprimorar a organização do registro de itens vendidos, com armazenamento próprio.
-* Implementar as consultas de faturamento, valor recebido e lucro por período.
-* Validar o tipo de venda, aceitando apenas vista ou prazo.
-* Limitar a descrição do produto a 30 caracteres.
+* Ampliar as consultas, com visões de faturamento, valores recebidos e lucro por período.
+* Aprimorar o processo de registro das modalidades de venda.
+* Refinar o cadastro de produtos, para manter as descrições dentro de um padrão de tamanho.
 * Aprimorar a robustez no armazenamento e na leitura dos dados.
 Autor:
 Paulo Vitor Freitas Maia
